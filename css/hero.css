@@ -1,0 +1,38 @@
+html, body{
+	font-family: Comic Sans MS, Gadget, sans-serif;
+}
+
+header{
+	background-color: #e69900;
+	padding: 30px;
+}
+
+h1{
+	font-size: 70px;
+	color: black;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+footer{
+	margin-top: 20px;
+	background-color: #ffbf80
+}
+
+footer ul{
+	text-align: center;
+}
