@@ -1,11 +1,25 @@
+header{
+	text-align: center;
+}
+
 html, body{
 	font-family: Comic Sans MS, Gadget, sans-serif;
+	margin: 0;
 }
 
 
 h1{
 	font-size: 70px;
 	color: black;
+}
+
+header img{
+	max-width: 1000px;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
 }
 
 img.big-image{
